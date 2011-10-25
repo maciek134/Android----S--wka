@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_height="fill_parent" android:gravity="center_horizontal" android:layout_width="250dp">
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView1" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:layout_width="fill_parent" android:gravity="center" android:textSize="30sp" android:text="@string/text_score"></TextView>
+    <TextView android:text="TextView" android:layout_height="wrap_content" android:id="@+id/textView2" android:layout_below="@+id/textView1" android:layout_centerHorizontal="true" android:layout_marginTop="10dp" android:layout_width="fill_parent" android:gravity="center" android:textSize="45sp"></TextView>
+    <Button android:text="@string/button_continue" android:id="@+id/button2" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_margin="10dp"></Button>
+    <Button android:id="@+id/button1" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/button_again" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp"></Button>
+    <Button android:id="@+id/button3" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:text="@string/button_back"></Button>
+    
+</LinearLayout>

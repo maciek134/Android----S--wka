@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Słówka</string>
+    <string name="button_start">Start</string>
+    <string name="text_activelist">Wybrana lista:</string>
+    <string name="button_login">Zaloguj</string>
+    <string name="button_logout">Wyloguj</string>
+    <string name="text_loggedin">Zalogowany jako:</string>
+    <string name="text_notlogged">nie zalogowany</string>
+    <string name="text_copyright">Copyright © 2011 by Killah Forge™</string>
+    <string name="text_username">Użytkownik:</string>
+    <string name="text_password">Hasło:</string>
+    <string name="button_sync">Synchronizuj</string>
+    <string name="button_remove">-</string>
+    <string name="button_add">+</string>
+    <string name="text_listname">Nazwa listy:</string>
+    <string name="button_listadd">Dodaj</string>
+    <string name="text_actuallist">Wybrana lista</string>
+    <string name="text_alllists">Wszystkie listy</string>
+    <string name="text_reversewords">Pytaj o drugie słowa</string>
+    <string name="button_tophone">Do Telefonu</string>
+    <string name="button_tointernet">Do Internetu</string>
+    <string name="button_save">Zapisz</string>
+    <string name="text_hidden">*******</string>
+    <string name="text_show">Odpowiedź</string>
+    <string name="button_know">WIEM</string>
+    <string name="button_dontknow">NIE WIEM</string>
+    <string name="text_score">Wynik:</string>
+    <string name="button_again">Od nowa</string>
+    <string name="button_continue">Kontynuuj</string>
+    <string name="button_back">Powrót</string>
+    <string name="button_register">Rejestracja</string>
+</resources>
